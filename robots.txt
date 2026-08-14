@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-5on0kq.salamkita.shop/sitemap.xml
